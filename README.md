@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ A propos de moi.
 
-- 🔭 Je travaille actuellement sur  **[DevFr](https://devfr.xyz/)** avec @ND Astro & @XiaotoxDev
+- 🔭 Je travaille actuellement sur  **[DevFr](https://devfr.xyz/)** avec @ND Astro & **[XiaotoxDev](https://github.com/XiaotoxDev)**
 
 - 🌱 Je suis actuellement en train d'apprendre la  **V13** de **Discord JS**
 
