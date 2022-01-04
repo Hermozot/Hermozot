@@ -53,3 +53,4 @@
     <img src="https://komarev.com/ghpvc/?username=Hermozot">
 </a>
 <a href="https://github.com/Hermozot?tab=followers"><img src="https://img.shields.io/github/followers/Hermozot?label=Followers&style=social" alt="GitHub Badge"></a>
+<b>Crédits:</b> Je me suis aidé du readme de **[XiaotoxDev](https://github.com/XiaotoxDev)** pour faire le miens.
