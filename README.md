@@ -1,14 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Je suis Hermozo !</h1>
 <h3 align="center">Je suis un passioné du code grâce a @XiaotoxDev et cela est devenue une passion depuis ! Je suis français.</h3>
 
-discord.gg/WuVgpFhy -> Blackdays
 ## 🙋‍♂️ A propos de moi.
 
-- 🔭 Je travaille actuellement sur  **HR SHADOW**
 
-- 🌱 Je suis actuellement en train d'apprendre la  **V13** de **Discord JS**
-
-- 📫 Je suis disponible sur discord : **!" ⁶₆⁷HΞRM0Z0#2543**
+- 📫 Je suis disponible sur discord : **HΞRM0Z0#0078**
 
 ## 🚀 Les langages & DB que j'utilise.:
 
